@@ -12,7 +12,7 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/do
 
 ## Self-Evaluation: 
 how many points out of 10 do you deserve on this assignment: 
-
+6
 ## Self-Reflection:
 
 
